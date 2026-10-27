@@ -1,0 +1,16 @@
+# Keep the build context small: only pom.xml and src/ are needed
+target/
+.git/
+.gitignore
+.gitattributes
+.idea/
+.vscode/
+*.iml
+*.docx
+*.md
+Dockerfile
+.dockerignore
+docker-compose.yml
+Jenkinsfile
+nginx/
+.env
