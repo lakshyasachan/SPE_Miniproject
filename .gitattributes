@@ -1,0 +1,6 @@
+# Normalise line endings: files run on Linux (Jenkins, Docker, Nginx) must use LF
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.jar binary
+*.png binary
