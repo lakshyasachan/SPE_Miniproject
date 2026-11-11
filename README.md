@@ -112,3 +112,4 @@ Jenkins runs natively on Ubuntu (WSL2) and uses Docker Desktop through the WSL i
 Before working on the project or giving a demo, start Docker Desktop, open an Ubuntu terminal and keep it open (WSL stops Jenkins when Ubuntu is idle), then open Jenkins at http://localhost:8080.
 
 Demo: change pushed on 11 Nov 2026 to trigger the CI/CD pipeline.
+demo0
